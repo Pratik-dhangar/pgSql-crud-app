@@ -1,6 +1,6 @@
 import React from "react";
 
-function Navbar() {
+function Navbar( onOpen ) {
   return (
     <div>
       <div className="navbar bg-base-100 shadow-sm mt-5 p-2">
@@ -52,7 +52,7 @@ function Navbar() {
           />
         </div>
         <div className="navbar-end">
-         <button class="btn btn-soft btn-primary btn-lg mr-5">Button</button>
+         <button class="btn btn-soft btn-primary btn-lg mr-5" onClick={onOpen}>Add Client</button>
         </div>
       </div>
     </div>
