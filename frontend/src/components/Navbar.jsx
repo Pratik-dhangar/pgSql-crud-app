@@ -18,7 +18,7 @@ export default function Navbar({ onOpen, onSearch}) {
             </div>
         </div>
         <div className="navbar-end">
-            <a className="btn btn-primary mr-5" onClick={onOpen}>Add Client</a>
+            <a className="btn btn-primary mr-12" onClick={onOpen}>Add Client</a>
         </div>
         </div>
         </>
