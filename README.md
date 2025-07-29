@@ -19,13 +19,13 @@
 ## UI Preview
 
 ### 🏠 Homepage
-![Homepage](./assets/Home.png)
+![Homepage](./frontend/src/assets/Home.png)
 
 ### 🧑‍💼 Add Client
-![Add Client](./assets/AddClient.png)
+![Add Client](./frontend/src/assets/Home.png)
 
 ### 🧑‍💼 Update Client
-![Update Client](./assets/Update.png)
+![Update Client](./frontend/src/assets/Home.png)
 
 
 ### Prerequisites
