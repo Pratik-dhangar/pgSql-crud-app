@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/-DaisyUi-black?style=for-the-badge&logoColor=white&logo=react&color=661FFF" alt="DaisyUi" />
 </div>
 
+
 A full-stack CRUD application using PostgreSQL, Express.js (Node.js), and React (Vite) with Tailwind CSS & DaisyUi for styling.
 
 ## Features
