@@ -57,7 +57,7 @@ export default function TableList({
             // On mobile, each row is a card with padding and margin
             <tr key={client.id} className=" border border-grey-500 md:border-none block md:table-row mb-4 md:mb-0">
               
-              {/* These `data-label` attributes are used for the mobile view's labels */}
+              
               <td data-label="ID" className="p-2 md:border md:border-grey-500 text-center block md:table-cell">
                   <span className="inline-block w-1/3 md:hidden font-bold">ID</span>{client.id}
               </td>
