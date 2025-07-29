@@ -1,6 +1,6 @@
 export default function Navbar({ onOpen, onSearch}) {
     const handleSearchChange = (event) => {
-        onSearch(event.target.value); // Call the onSearch callback with the input val
+        onSearch(event.target.value); // Call  onSearch callback with the input val
     };
 
 
