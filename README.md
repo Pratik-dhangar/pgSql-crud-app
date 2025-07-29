@@ -6,7 +6,7 @@
 </div>
 
 
-A full-stack CRUD application using PostgreSQL, Express.js (Node.js), and React (Vite) with Tailwind CSS & DaisyUi for styling.
+# A full-stack CRUD application using PostgreSQL, Express.js (Node.js), and React (Vite) with Tailwind CSS & DaisyUi for styling.
 
 ## Features
 
