@@ -1,4 +1,9 @@
 <h1 align="center">PostgreSql CRUD APP </h1>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Postgres-black?style=for-the-badge&logoColor=white&logo=react&color=336791" alt="Postgres" />
+  <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+  <img src="https://img.shields.io/badge/-DaisyUi-black?style=for-the-badge&logoColor=white&logo=react&color=661FFF" alt="DaisyUi" />
+</div>
 
 A full-stack CRUD application using PostgreSQL, Express.js (Node.js), and React (Vite) with Tailwind CSS & DaisyUi for styling.
 
@@ -10,7 +15,17 @@ A full-stack CRUD application using PostgreSQL, Express.js (Node.js), and React 
 - **Responsive UI:** Mobile-friendly table layout
 - **Environment Variables:** Managed via `.env` file
 
-## Getting Started
+## UI Preview
+
+### 🏠 Homepage
+![Homepage](./assets/Home.png)
+
+### 🧑‍💼 Add Client
+![Add Client](./assets/AddClient.png)
+
+### 🧑‍💼 Update Client
+![Update Client](./assets/Update.png)
+
 
 ### Prerequisites
 
