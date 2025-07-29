@@ -37,8 +37,7 @@ export default function TableList({
   <>
     {error && <div className="alert alert-error">{error}</div>}
 
-    {/* On small screens, `overflow-x-auto` is a fallback. The main responsiveness comes from the classes on the table itself. */}
-    <div className="overflow-x-auto mt-10 ml-9 md:mr-9">
+      <div className="overflow-x-auto mt-10 ml-9 md:mr-9">
       
       <table className="table w-full block md:table">
         {/* Head is hidden on mobile, shown on medium screens and up */}
