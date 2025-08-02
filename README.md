@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
   <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
-  <img src="https://img.shields.io/badge/-DaisyUi-black?style=for-the-badge&logoColor=white&logo=react&color=661FFF" alt="DaisyUi" />
+  <img src="https://img.shields.io/badge/-DaisyUi-black?style=for-the-badge&color=661FFF" alt="DaisyUi" />
 </div>
 
 <p> A full-stack CRUD application using PostgreSQL, Express.js (Node.js), and React (Vite) with Tailwind CSS & DaisyUi for styling.</p>
