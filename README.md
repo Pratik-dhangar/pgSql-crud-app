@@ -1,5 +1,6 @@
 <h1 align="center">PostgreSql CRUD APP </h1>
 <div align="center">
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
   <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
   <img src="https://img.shields.io/badge/-DaisyUi-black?style=for-the-badge&color=661FFF" alt="DaisyUi" />
